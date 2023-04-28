@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DevSample
 {
-    class Sample
+    public class Sample
     {
 
         public Sample(bool isFirstSample)

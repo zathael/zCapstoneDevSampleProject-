@@ -29,6 +29,8 @@ The solution includes a test project with unit and integration tests for the app
 
 3. In the Test Explorer, click `Run All` to run all the tests.
 
+> You may need to reinstall MSTest.TestFramework through NuGet if it is not referencing the Microsoft.VisualStudio.TestTools.UnitTesting .dll correctly
+
 ## License
 
 No License was specified at the time of this project. None is overly needed as this doesn't connect anywhere or do specific labor.
